@@ -1,0 +1,7 @@
+C:\Users\jackb\Desktop\DailyCode\DailyCode\DailyCode\obj\Debug\DailyCode.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DailyCode\DailyCode\obj\Debug\DailyCode.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DailyCode\DailyCode\bin\Debug\DailyCode.dll.config
+C:\Users\jackb\Desktop\DailyCode\DailyCode\DailyCode\bin\Debug\DailyCode.dll
+C:\Users\jackb\Desktop\DailyCode\DailyCode\DailyCode\bin\Debug\DailyCode.pdb
+C:\Users\jackb\Desktop\DailyCode\DailyCode\DailyCode\obj\Debug\DailyCode.dll
+C:\Users\jackb\Desktop\DailyCode\DailyCode\DailyCode\obj\Debug\DailyCode.pdb
