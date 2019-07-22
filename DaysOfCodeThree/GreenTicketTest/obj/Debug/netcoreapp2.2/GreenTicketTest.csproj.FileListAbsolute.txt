@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\obj\Debug\netcoreapp2.2\GreenTicketTest.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\obj\Debug\netcoreapp2.2\GreenTicketTest.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\obj\Debug\netcoreapp2.2\GreenTicketTest.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\obj\Debug\netcoreapp2.2\GreenTicketTest.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\GreenTicketTest.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\GreenTicketTest.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\GreenTicketTest.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\GreenTicketTest.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\GreenTicketTest.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\DaysOfCodeThree.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\bin\Debug\netcoreapp2.2\DaysOfCodeThree.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\obj\Debug\netcoreapp2.2\GreenTicketTest.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\obj\Debug\netcoreapp2.2\GreenTicketTest.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\GreenTicketTest\obj\Debug\netcoreapp2.2\GreenTicketTest.pdb

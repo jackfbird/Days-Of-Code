@@ -1,0 +1,9 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\obj\Debug\netcoreapp2.2\DaysOfCodeThree.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\obj\Debug\netcoreapp2.2\DaysOfCodeThree.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\obj\Debug\netcoreapp2.2\DaysOfCodeThree.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\obj\Debug\netcoreapp2.2\DaysOfCodeThree.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\bin\Debug\netcoreapp2.2\DaysOfCodeThree.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\bin\Debug\netcoreapp2.2\DaysOfCodeThree.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\bin\Debug\netcoreapp2.2\DaysOfCodeThree.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\obj\Debug\netcoreapp2.2\DaysOfCodeThree.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayThree\DaysOfCodeThree\DaysOfCodeThree\obj\Debug\netcoreapp2.2\DaysOfCodeThree.pdb
