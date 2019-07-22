@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Has12Tests.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Has12Tests.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Has12Tests.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Has12Tests.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\Has12Tests.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\DaysOfCodeTwo.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\bin\Debug\netcoreapp2.2\DaysOfCodeTwo.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\obj\Debug\netcoreapp2.2\Has12Tests.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\obj\Debug\netcoreapp2.2\Has12Tests.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\obj\Debug\netcoreapp2.2\Has12Tests.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\obj\Debug\netcoreapp2.2\Has12Tests.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\obj\Debug\netcoreapp2.2\Has12Tests.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\obj\Debug\netcoreapp2.2\Has12Tests.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\Has12Tests\obj\Debug\netcoreapp2.2\Has12Tests.pdb

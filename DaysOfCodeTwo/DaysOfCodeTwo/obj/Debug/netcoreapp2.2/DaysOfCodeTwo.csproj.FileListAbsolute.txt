@@ -1,0 +1,9 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\bin\Debug\netcoreapp2.2\DaysOfCodeTwo.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\bin\Debug\netcoreapp2.2\DaysOfCodeTwo.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\bin\Debug\netcoreapp2.2\DaysOfCodeTwo.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\obj\Debug\netcoreapp2.2\DaysOfCodeTwo.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\obj\Debug\netcoreapp2.2\DaysOfCodeTwo.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\obj\Debug\netcoreapp2.2\DaysOfCodeTwo.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\obj\Debug\netcoreapp2.2\DaysOfCodeTwo.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\obj\Debug\netcoreapp2.2\DaysOfCodeTwo.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayTwo\DaysOfCodeTwo\DaysOfCodeTwo\obj\Debug\netcoreapp2.2\DaysOfCodeTwo.pdb
