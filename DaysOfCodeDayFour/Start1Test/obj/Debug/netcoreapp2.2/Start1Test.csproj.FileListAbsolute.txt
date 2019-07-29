@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Start1Test.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Start1Test.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Start1Test.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Start1Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\Start1Test.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\DaysOfCodeDayFour.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\bin\Debug\netcoreapp2.2\DaysOfCodeDayFour.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\obj\Debug\netcoreapp2.2\Start1Test.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\obj\Debug\netcoreapp2.2\Start1Test.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\obj\Debug\netcoreapp2.2\Start1Test.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\obj\Debug\netcoreapp2.2\Start1Test.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\obj\Debug\netcoreapp2.2\Start1Test.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\obj\Debug\netcoreapp2.2\Start1Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFour\Start1Test\obj\Debug\netcoreapp2.2\Start1Test.pdb
