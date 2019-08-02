@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\obj\Debug\netcoreapp2.2\FizzArray3Test.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\obj\Debug\netcoreapp2.2\FizzArray3Test.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\obj\Debug\netcoreapp2.2\FizzArray3Test.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\obj\Debug\netcoreapp2.2\FizzArray3Test.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\FizzArray3Test.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\FizzArray3Test.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\FizzArray3Test.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\FizzArray3Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\FizzArray3Test.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\DaysOfCodeDayFive.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\bin\Debug\netcoreapp2.2\DaysOfCodeDayFive.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\obj\Debug\netcoreapp2.2\FizzArray3Test.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\obj\Debug\netcoreapp2.2\FizzArray3Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDayFour\DaysOfCodeDayFive\FizzArray3Test\obj\Debug\netcoreapp2.2\FizzArray3Test.pdb
