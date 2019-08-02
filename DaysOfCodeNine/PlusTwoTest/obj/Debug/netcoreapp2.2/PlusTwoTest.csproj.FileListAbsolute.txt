@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\PlusTwoTest.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\PlusTwoTest.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\PlusTwoTest.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\PlusTwoTest.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\PlusTwoTest.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\DaysOfCodeNine.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\bin\Debug\netcoreapp2.2\DaysOfCodeNine.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\obj\Debug\netcoreapp2.2\PlusTwoTest.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\obj\Debug\netcoreapp2.2\PlusTwoTest.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\obj\Debug\netcoreapp2.2\PlusTwoTest.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\obj\Debug\netcoreapp2.2\PlusTwoTest.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\obj\Debug\netcoreapp2.2\PlusTwoTest.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\obj\Debug\netcoreapp2.2\PlusTwoTest.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\PlusTwoTest\obj\Debug\netcoreapp2.2\PlusTwoTest.pdb

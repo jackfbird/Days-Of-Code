@@ -1,0 +1,9 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\bin\Debug\netcoreapp2.2\DaysOfCodeNine.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\bin\Debug\netcoreapp2.2\DaysOfCodeNine.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\bin\Debug\netcoreapp2.2\DaysOfCodeNine.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\obj\Debug\netcoreapp2.2\DaysOfCodeNine.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\obj\Debug\netcoreapp2.2\DaysOfCodeNine.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\obj\Debug\netcoreapp2.2\DaysOfCodeNine.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\obj\Debug\netcoreapp2.2\DaysOfCodeNine.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\obj\Debug\netcoreapp2.2\DaysOfCodeNine.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayNine\DaysOfCodeNine\DaysOfCodeNine\obj\Debug\netcoreapp2.2\DaysOfCodeNine.pdb
