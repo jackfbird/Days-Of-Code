@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\More14Test.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\More14Test.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\More14Test.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\More14Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\More14Test.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\DaysOfCodeDayTen.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\bin\Debug\netcoreapp2.2\DaysOfCodeDayTen.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\obj\Debug\netcoreapp2.2\More14Test.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\obj\Debug\netcoreapp2.2\More14Test.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\obj\Debug\netcoreapp2.2\More14Test.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\obj\Debug\netcoreapp2.2\More14Test.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\obj\Debug\netcoreapp2.2\More14Test.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\obj\Debug\netcoreapp2.2\More14Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDayTen\DaysOfCodeDayTen\More14Test\obj\Debug\netcoreapp2.2\More14Test.pdb
