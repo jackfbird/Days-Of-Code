@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Only14Test.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Only14Test.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Only14Test.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Only14Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\Only14Test.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\DaysOfCodeDaySix.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\bin\Debug\netcoreapp2.2\DaysOfCodeDaySix.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\obj\Debug\netcoreapp2.2\Only14Test.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\obj\Debug\netcoreapp2.2\Only14Test.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\obj\Debug\netcoreapp2.2\Only14Test.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\obj\Debug\netcoreapp2.2\Only14Test.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\obj\Debug\netcoreapp2.2\Only14Test.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\obj\Debug\netcoreapp2.2\Only14Test.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySix\Only14Test\obj\Debug\netcoreapp2.2\Only14Test.pdb
