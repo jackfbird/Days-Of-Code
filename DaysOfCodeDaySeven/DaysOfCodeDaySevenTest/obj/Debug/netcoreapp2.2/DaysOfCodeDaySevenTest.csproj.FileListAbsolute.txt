@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.deps.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.runtimeconfig.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\DaysOfCodeDaySeven.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\bin\Debug\netcoreapp2.2\DaysOfCodeDaySeven.pdb
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\obj\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\obj\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\obj\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\obj\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.AssemblyInfo.cs
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\obj\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.csproj.CopyComplete
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\obj\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.dll
+C:\Users\jackb\Desktop\DailyCode\DaysOfCodeDaySix\DaysOfCodeDaySeven\DaysOfCodeDaySevenTest\obj\Debug\netcoreapp2.2\DaysOfCodeDaySevenTest.pdb
